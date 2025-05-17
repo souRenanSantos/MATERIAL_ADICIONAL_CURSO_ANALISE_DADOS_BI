@@ -1,0 +1,78 @@
+﻿pk_produto;nome_produto;categoria_produto;situacao_produto;fornecedor_produto;cidade_fornecedor;pais_fornecedor
+1;Chai;Beverages;Ativo;Exotic Liquids;London;UK
+2;Chang;Beverages;Ativo;Exotic Liquids;London;UK
+3;Aniseed Syrup;Condiments;Ativo;Exotic Liquids;London;UK
+4;Chef Anton's Cajun Seasoning;Condiments;Ativo;New Orleans Cajun Delights;New Orleans;USA
+5;Chef Anton's Gumbo Mix;Condiments;Descontinuado;New Orleans Cajun Delights;New Orleans;USA
+6;Grandma's Boysenberry Spread;Condiments;Ativo;Grandma Kelly's Homestead;Ann Arbor;USA
+7;Uncle Bob's Organic Dried Pear;Produce;Ativo;Grandma Kelly's Homestead;Ann Arbor;USA
+8;Northwoods Cranberry Sauce;Condiments;Ativo;Grandma Kelly's Homestead;Ann Arbor;USA
+9;Mishi Kobe Niku;Meat/Poultry;Descontinuado;Tokyo Traders;Tokyo;Japan
+10;Ikura;Seafood;Ativo;Tokyo Traders;Tokyo;Japan
+11;Queso Cabrales;Dairy Products;Ativo;Cooperativa de Quesos 'Las Cab;Oviedo;Spain
+12;Queso Manchego La Pastora;Dairy Products;Ativo;Cooperativa de Quesos 'Las Cab;Oviedo;Spain
+13;Konbu;Seafood;Ativo;Mayumi's;Osaka;Japan
+14;Tofu;Produce;Ativo;Mayumi's;Osaka;Japan
+15;Genen Shouyu;Condiments;Ativo;Mayumi's;Osaka;Japan
+16;Pavlova;Confections;Ativo;Pavlova, Ltd.;Melbourne;Australia
+17;Alice Mutton;Meat/Poultry;Descontinuado;Pavlova, Ltd.;Melbourne;Australia
+18;Carnarvon Tigers;Seafood;Ativo;Pavlova, Ltd.;Melbourne;Australia
+19;Teatime Chocolate Biscuits;Confections;Ativo;Specialty Biscuits, Ltd.;Manchester;UK
+20;Sir Rodney's Marmalade;Confections;Ativo;Specialty Biscuits, Ltd.;Manchester;UK
+21;Sir Rodney's Scones;Confections;Ativo;Specialty Biscuits, Ltd.;Manchester;UK
+22;Gustaf's Knäckebröd;Grains/Cereals;Ativo;PB Knäckebröd AB;Göteborg;Sweden
+23;Tunnbröd;Grains/Cereals;Ativo;PB Knäckebröd AB;Göteborg;Sweden
+24;Guaraná Fantástica;Beverages;Descontinuado;Refrescos Americanas LTDA;Sao Paulo;Brazil
+25;NuNuCa Nuß-Nougat-Creme;Confections;Ativo;Heli Süßwaren GmbH & Co. KG;Berlin;Germany
+26;Gumbär Gummibärchen;Confections;Ativo;Heli Süßwaren GmbH & Co. KG;Berlin;Germany
+27;Schoggi Schokolade;Confections;Ativo;Heli Süßwaren GmbH & Co. KG;Berlin;Germany
+28;Rössle Sauerkraut;Produce;Descontinuado;Plutzer Lebensmittelgroßmärkte;Frankfurt;Germany
+29;Thüringer Rostbratwurst;Meat/Poultry;Descontinuado;Plutzer Lebensmittelgroßmärkte;Frankfurt;Germany
+30;Nord-Ost Matjeshering;Seafood;Ativo;Nord-Ost-Fisch Handelsgesellsc;Cuxhaven;Germany
+31;Gorgonzola Telino;Dairy Products;Ativo;Formaggi Fortini s.r.l.;Ravenna;Italy
+32;Mascarpone Fabioli;Dairy Products;Ativo;Formaggi Fortini s.r.l.;Ravenna;Italy
+33;Geitost;Dairy Products;Ativo;Norske Meierier;Sandvika;Norway
+34;Sasquatch Ale;Beverages;Ativo;Bigfoot Breweries;Bend;USA
+35;Steeleye Stout;Beverages;Ativo;Bigfoot Breweries;Bend;USA
+36;Inlagd Sill;Seafood;Ativo;Svensk Sjöföda AB;Stockholm;Sweden
+37;Gravad lax;Seafood;Ativo;Svensk Sjöföda AB;Stockholm;Sweden
+38;Côte de Blaye;Beverages;Ativo;Aux joyeux ecclésiastiques;Paris;France
+39;Chartreuse verte;Beverages;Ativo;Aux joyeux ecclésiastiques;Paris;France
+40;Boston Crab Meat;Seafood;Ativo;New England Seafood Cannery;Boston;USA
+41;Jack's New England Clam Chowde;Seafood;Ativo;New England Seafood Cannery;Boston;USA
+42;Singaporean Hokkien Fried Mee;Grains/Cereals;Descontinuado;Leka Trading;Singapore;Singapore
+43;Ipoh Coffee;Beverages;Ativo;Leka Trading;Singapore;Singapore
+44;Gula Malacca;Condiments;Ativo;Leka Trading;Singapore;Singapore
+45;Rogede sild;Seafood;Ativo;Lyngbysild;Lyngby;Denmark
+46;Spegesild;Seafood;Ativo;Lyngbysild;Lyngby;Denmark
+47;Zaanse koeken;Confections;Ativo;Zaanse Snoepfabriek;Zaandam;Netherlands
+48;Chocolade;Confections;Ativo;Zaanse Snoepfabriek;Zaandam;Netherlands
+49;Maxilaku;Confections;Ativo;Karkki Oy;Lappeenranta;Finland
+50;Valkoinen suklaa;Confections;Ativo;Karkki Oy;Lappeenranta;Finland
+51;Manjimup Dried Apples;Produce;Ativo;G'day, Mate;Sydney;Australia
+52;Filo Mix;Grains/Cereals;Ativo;G'day, Mate;Sydney;Australia
+53;Perth Pasties;Meat/Poultry;Descontinuado;G'day, Mate;Sydney;Australia
+54;Tourtière;Meat/Poultry;Ativo;Ma Maison;Montréal;Canada
+55;Pâté chinois;Meat/Poultry;Ativo;Ma Maison;Montréal;Canada
+56;Gnocchi di nonna Alice;Grains/Cereals;Ativo;Pasta Buttini s.r.l.;Salerno;Italy
+57;Ravioli Angelo;Grains/Cereals;Ativo;Pasta Buttini s.r.l.;Salerno;Italy
+58;Escargots de Bourgogne;Seafood;Ativo;Escargots Nouveaux;Montceau;France
+59;Raclette Courdavault;Dairy Products;Ativo;Gai pâturage;Annecy;France
+60;Camembert Pierrot;Dairy Products;Ativo;Gai pâturage;Annecy;France
+61;Sirop d'érable;Condiments;Ativo;Forêts d'érables;Ste-Hyacinthe;Canada
+62;Tarte au sucre;Confections;Ativo;Forêts d'érables;Ste-Hyacinthe;Canada
+63;Vegie-spread;Condiments;Ativo;Pavlova, Ltd.;Melbourne;Australia
+64;Wimmers gute Semmelknödel;Grains/Cereals;Ativo;Plutzer Lebensmittelgroßmärkte;Frankfurt;Germany
+65;Louisiana Fiery Hot Pepper Sau;Condiments;Ativo;New Orleans Cajun Delights;New Orleans;USA
+66;Louisiana Hot Spiced Okra;Condiments;Ativo;New Orleans Cajun Delights;New Orleans;USA
+67;Laughing Lumberjack Lager;Beverages;Ativo;Bigfoot Breweries;Bend;USA
+68;Scottish Longbreads;Confections;Ativo;Specialty Biscuits, Ltd.;Manchester;UK
+69;Gudbrandsdalsost;Dairy Products;Ativo;Norske Meierier;Sandvika;Norway
+70;Outback Lager;Beverages;Ativo;Pavlova, Ltd.;Melbourne;Australia
+71;Flotemysost;Dairy Products;Ativo;Norske Meierier;Sandvika;Norway
+72;Mozzarella di Giovanni;Dairy Products;Ativo;Formaggi Fortini s.r.l.;Ravenna;Italy
+73;Röd Kaviar;Seafood;Ativo;Svensk Sjöföda AB;Stockholm;Sweden
+74;Longlife Tofu;Produce;Ativo;Tokyo Traders;Tokyo;Japan
+75;Rhönbräu Klosterbier;Beverages;Ativo;Plutzer Lebensmittelgroßmärkte;Frankfurt;Germany
+76;Lakkalikööri;Beverages;Ativo;Karkki Oy;Lappeenranta;Finland
+77;Original Frankfurter grüne Soß;Condiments;Ativo;Plutzer Lebensmittelgroßmärkte;Frankfurt;Germany
